@@ -1,0 +1,29 @@
+{
+  "name": "thinking",
+  "version": "1.0.0",
+  "description": "Rails/React app with Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entcheva/thinking.git"
+  },
+  "keywords": [
+    "Ruby",
+    "on",
+    "Rails",
+    "React",
+    "JavaScript",
+    "Ruby",
+    "Sass",
+    "CSS"
+  ],
+  "author": "Christina Entcheva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/entcheva/thinking/issues"
+  },
+  "homepage": "https://github.com/entcheva/thinking#readme"
+}
